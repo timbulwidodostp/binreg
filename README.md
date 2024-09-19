@@ -1,6 +1,8 @@
 # binreg
 Binomial regression for censored competing risks data Use binreg With (In) R Software
 
+https://www.youtube.com/watch?v=S2-JLTAIwDI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
